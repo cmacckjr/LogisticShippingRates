@@ -1,2 +1,16 @@
-# LogisticShippingRates
-This repo is being created for my practice project in my "Getting Started with Git and GitHub" class contained in the IBM Full-Stack JavaScript Developer Professional Certificate course offered by IBM through Coursera
+Please consider the below factors while contributing
+
+Code Style:
+Maintain a consistent code style for readability.
+
+Documentation:
+Ensure well-documented code for effective collaboration.
+
+Testing:
+Thoroughly test your changes before submitting a pull request.
+
+Issue Tracker:
+Check the Issue Tracker for tasks.
+
+Code Review:
+All contributions udergo a code review process.
